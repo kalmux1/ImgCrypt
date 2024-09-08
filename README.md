@@ -1,5 +1,5 @@
 # ImgCrypt: Secure Your Images with Easy Encryption and Decryption
-
+ 
 <p align="center">
   <img src="https://github.com/kalmux1/ImgCrypt/blob/main/Assets/Tool%20Image.png" alt="ImgCrypt GUI">
 </p>
